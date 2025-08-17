@@ -15,6 +15,5 @@ A simple **Currency Converter** application built using **Java**. This project a
 - No external libraries (pure Java)
 - (Optional) Java Swing for GUI version
 
-## 📂 Project Structure
 
 
